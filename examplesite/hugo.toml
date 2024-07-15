@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en'
-title = 'Hugo Cat'
+title = 'Larry Muhlstein'
 PygmentsCodeFences = true
 PygmentsStyle = "solarized-dark256"
 pluralizelisttitles = "false"
